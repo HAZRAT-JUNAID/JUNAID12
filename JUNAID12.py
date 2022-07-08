@@ -1,0 +1,2 @@
+from JUNAID12 import ZEEKO
+ZEEKO()
